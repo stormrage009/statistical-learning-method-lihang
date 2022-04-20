@@ -4,7 +4,6 @@ prp:unnamed-chunk-1
 theorem-block
 math-formular
 custom-block
-part-监督学习
 intro
 sec:perceptron
 sec:k-NN
@@ -15,7 +14,6 @@ sec:SVM
 sec:EM
 sec:CRF
 sec:summary-Supervised
-part-无监督学习
 intro-Unsupervised
 sec:clustering-methods
 sec:SVD
